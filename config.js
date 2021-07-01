@@ -3,10 +3,10 @@ const CONFIG = {
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Đằng sau chữ thích đây là yêu`,
     btnIntro: 'hihi',
     title: 'Hôm qua anh có lỡ làm công chúa cộc 😙',
-    desc: 'Hôm nay công chúa đừng cộc anh nữa nha ',
+    desc: 'Hôm nay công chúa đừng cộc anh nữa nha',
     btnYes: 'Tha lỗi cho anh á <33',
     btnNo: 'Không :3',
     question:'Trên thế giới có 7 tỉ người, biết tại sao anh thích em không <3',
